@@ -25,8 +25,8 @@ A classic arcade-style space shooter game built with Python and Pygame. Navigate
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/space-shooter.git
-cd space-shooter
+git clone https://YaraDaraghmeh/Simple-Python-Game.git
+cd Simple-Python-Game
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
